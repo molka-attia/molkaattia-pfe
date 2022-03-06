@@ -16,7 +16,7 @@ class userMainDash extends StatelessWidget {
       title: 'Responsive Admin Dashboard',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.blue, 
       ),
       home: MultiProvider(
         providers: [
